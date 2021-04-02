@@ -2,6 +2,8 @@
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
+居然可以使用React写后端页面，同时还可以使用hooks在页面上保持状态，好像打破了前后端的界线，厉害！
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
